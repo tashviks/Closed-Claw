@@ -2,6 +2,8 @@
 
 A local AI agent platform with multi-provider support, tool creation, web research, and sandboxed code execution. Runs entirely on your machine.
 
+https://github.com/user-attachments/assets/1147037f-540d-43e8-949b-debe75a3e2b9
+
 ## Features
 
 - **Multi-provider**: OpenAI, Anthropic, Google, Mistral, OpenRouter (100+ models including free ones)
